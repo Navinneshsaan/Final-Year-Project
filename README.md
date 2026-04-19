@@ -3,4 +3,4 @@ Project Title  : DEVELOPMENT OF AN EARLY WARNING PIPELINE RUPTURE DETECTION SYST
 
 Supervisor     : Dr. Nurulaqilla binti Khamis
 
-E-logbook: https://drive.google.com/drive/folders/1xtKbekr8iVMej83FWAXNeASgpthuJwKy?usp=drive_link 
+E-logbook FYP2: https://drive.google.com/drive/folders/1vcOTTUzr5QJ9olTeSQqo11K846NEGXSE?usp=sharing
